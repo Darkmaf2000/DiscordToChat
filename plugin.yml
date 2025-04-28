@@ -1,0 +1,6 @@
+name: DiscordRelay
+main: com.tuonome.discordrelay.DiscordRelayPlugin
+version: 1.0
+api-version: "1.16"
+author: IlTuoNome
+description: Relay da Discord → chat Minecraft.
