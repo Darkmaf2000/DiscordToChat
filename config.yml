@@ -1,0 +1,6 @@
+# Token del bot Discord (senza "Bot ")
+token: "TUO_DISCORD_BOT_TOKEN"
+# ID numerico del canale da cui prendere i messaggi
+channel-id: 123456789012345678
+# Prefisso (opzionale) da stampare prima del nickname Discord
+format: "[Discord] <%AUTHOR%>: %MESSAGE%"
